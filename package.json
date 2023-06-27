@@ -20,5 +20,8 @@
   "homepage": "https://github.com/enteropositivo/bip39colors#readme",
   "files": [
     "javascript/bip39colors.js"
-  ]
+  ],
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
 }
